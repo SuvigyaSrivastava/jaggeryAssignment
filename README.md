@@ -21,18 +21,9 @@ cd jaggeryAssignment
   
 
 Install dependencies:
-bash
-Copy
-Edit
 npm install
 Run the project:
-bash
-Copy
-Edit
 npm run dev
 Open in your browser:
-arduino
-Copy
-Edit
 http://localhost:5173
 🚀 Live Demo https://jaggery-assignment.vercel.app/
