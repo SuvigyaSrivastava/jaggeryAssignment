@@ -1,18 +1,19 @@
-Wonderla Rides Clone 🎢
-A React + Tailwind CSS implementation of the Wonderla rides section, featuring a dynamic carousel, category selection, and smooth UI animations.
+##Wonderla Rides Clone 🎢
+##A React + Tailwind CSS implementation of the Wonderla rides section, featuring a dynamic carousel, category selection, and smooth UI animations.
 
-🚀 Tech Stack
+##🚀 Tech Stack
 ReactJS (Vite)
 Tailwind CSS
 Framer Motion (for animations)
 JSON (for dynamic data)
-📌 Features
+
+##📌 Features
 🎡 Carousel for rides with navigation controls
 🔹 Category selection (Land, Water, Kids)
 🎨 Smooth animations & hover effects
 ⚡ Fully dynamic data loading from JSON
 💻 Installation & Setup
-Clone the repo:
+##Clone the repo:
 bash
 Copy
 Edit
@@ -29,8 +30,7 @@ Copy
 Edit
 npm run dev
 Open http://localhost:5173 in your browser.
-🚀 Live Demo (If Deployed)
-🔗 View Project (Add the deployed link if available)
+🚀 Live Demo =https://jaggery-assignment.vercel.app/
 
 📜 License
 This project is for educational purposes onl
